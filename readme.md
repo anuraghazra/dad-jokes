@@ -613,3 +613,9 @@ The next time you're using Safari or Firefox and it's running slowly, you can sa
 **A**: Made a hash of it.
 
 —--
+
+**Q**: Why did the programmer quits his job?
+
+**A**: Because he didn't get arrays (a raise)
+
+—--
